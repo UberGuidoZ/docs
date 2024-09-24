@@ -348,6 +348,7 @@ DPC CyberSec & DigiPres event, Dec 2022
 [video](https://www.youtube.com/watch?v=264OmDG8m7M)
 <br/>w/ [Rafał Hirsz](https://twitter.com/HDevo)
 
+**Sbud: Infovis in Infosec** CTI Summit 2023 [slides](https://speakerdeck.com/ange/sbud-infovis-in-infosec) / [video](https://www.youtube.com/watch?v=O_7x2qhayDQ)
 
 # Academic papers
 
@@ -383,6 +384,9 @@ Ange Albertini, [Thai Duong](https://twitter.com/XorNinja), Shay Gueron, [Stefan
 2020/07 Exploitations de collisions MD5, [Misc Hors série 21](https://boutique.ed-diamond.com/les-hors-series/1518-misc-hs-21.html) p118<br/>
 *hash collisions*
 
+2023/11 Classification et création de fichiers bizarres, [Misc 130](https://boutique.ed-diamond.com/home/1669-misc-130.html) p72<br/>
+
+2024/01 Abus des modes de chiffrement via des fichiers bizarres, [Misc 131](https://boutique.ed-diamond.com/home/1674-misc-131.html) p72<br/>
 
 ## Notable appearances
 
@@ -450,5 +454,10 @@ In [Proof of Concept or Get the F\*ck Out](https://github.com/angea/pocorgtfo/bl
 
 2019/03
 - 19:05 [An MD5 Pileup](https://archive.org/stream/pocorgtfo19#page/n20/mode/1up), w/ [Marc Stevens](https://twitter.com/realhashbreaker) *hash collisions*
+
+2024/02
+- 22:03 [Mitra and Mocky: Near-polyglots and Mocks](https://archive.org/details/pocorgtfo22/page/n10/mode/1up)
+- 22:05 [Inside out; or, Abusing archive file formats](https://archive.org/details/pocorgtfo22/page/n18/mode/1up) *hash collisions*
+- 22:07 [Timecryption, OTP with Near-polyglots](https://archive.org/details/pocorgtfo22/page/n29/mode/1up), w/ [Stefan Kölbl](https://twitter.com/@kste_)
 
 <!-- pandoc -s -f gfm -t html talks.md -o talks.htm -->
